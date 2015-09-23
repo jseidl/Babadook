@@ -3,7 +3,7 @@
 ############################
 
 # Paths
-$SharePath = "Y:\CISP\98. Scripts & Tools\PowerShell\Dev" # Shared Folder used for C&C
+$SharePath = "Y:\Path\To\Shared\Folder" # Shared Folder used for C&C
 $CmdPath = "$($SharePath)\command.ps1" # Global Command Script
 
 $Interval = 10 # Interval between checking the C&C file
